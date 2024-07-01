@@ -3,6 +3,12 @@
 Datasource: FP20 Analytics Data Challenges: Challenge 17: CRM AND SALES PIPELINE ANALYSIS
 
 ## Introduction and Data Background
+
+Understand the data:
+1. Organization:
+
+2. 
+
 Expected Close date vs Actual Close Date
 
 ## Business Questions:
@@ -29,5 +35,7 @@ Q10.	Assess the time taken from lead acquisition to deal closure. Which factors 
 Q11.	Investigate common characteristics of lost opportunities. What are the primary reasons for deals not closing, and how do these reasons vary by industry or country?
 
 Q12.	How accurate are the sales forecasts in terms of expected versus actual close dates of deals?
+
+## Exploratory Data Analysis (EDA):
 
 ## Findings and Insights
