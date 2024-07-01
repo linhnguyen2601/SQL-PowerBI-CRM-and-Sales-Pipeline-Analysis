@@ -37,5 +37,9 @@ Q11.	Investigate common characteristics of lost opportunities. What are the prim
 Q12.	How accurate are the sales forecasts in terms of expected versus actual close dates of deals?
 
 ## Exploratory Data Analysis (EDA):
+Sorry you guys I jump into Python to have a quick description of the dataset:
+
+![image](https://github.com/linhnguyen2601/SQL-PowerBI-CRM-and-Sales-Pipeline-Analysis/assets/166676829/ba9b1ec7-c815-493b-ad5f-f4633c2e03b6)
+
 
 ## Findings and Insights
